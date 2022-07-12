@@ -1,16 +1,18 @@
-### Hi there 👋
+```bat
+cd Github
+cd z6o
+dir
+12.07.2022  21:42    <DIR>          .
+12.07.2022  21:40    <DIR>          ..
+12.07.2022  21:42                  AboutMySelf.bat
 
-<!--
-**z6o/z6o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AboutMySelf.bat
 
-Here are some ideas to get you started:
+Output:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name: Leon
+Age: 13
+Programming-Languages: Python, Batch.
+Project-iam-working-on: WalletHunter
+Languages-i-speak: German, English.
+Hobbys: Coding, gaming and sometimes watching anime my fav anime is rascal does not dream of a bunny girl senpai.
