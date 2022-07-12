@@ -7,7 +7,7 @@ dir
 12.07.2022  21:42                  AboutMySelf.bat
 
 AboutMySelf.bat
-
+-
 Output:
 
 Name: Leon
