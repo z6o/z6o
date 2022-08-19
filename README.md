@@ -11,7 +11,7 @@ AboutMySelf.bat
 Output:
 
 
-Age: 13
+
 Programming-Languages: Python, Batch.
 Project-iam-working-on: WalletHunter
 Languages-i-speak: German, English.
